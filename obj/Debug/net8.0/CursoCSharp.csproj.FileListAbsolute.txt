@@ -26,3 +26,7 @@ C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSha
 C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\obj\Debug\net8.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\bin\Debug\net8.0\Encapsulamento.dll
+C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\bin\Debug\net8.0\Encapsulamento.pdb
+C:\Users\matheus.domingues\Documents\CursoCSharp-main\CursoCSharp-main\CursoCSharp\obj\Debug\net8.0\CursoCSh.88BC1E5B.Up2Date

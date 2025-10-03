@@ -19,7 +19,7 @@ namespace CursoCSharp.Colecoes
             if(filmes.ContainsKey(2004))
             {
                 Console.WriteLine("2004: " + filmes[2004]);
-                Console.WriteLine("2004: " + filmes.GetValueOrDefault(2008));
+                Console.WriteLine("2004: " + filmes.GetValueOrDefault(2004));
             }
 
             Console.WriteLine(filmes.ContainsValue("Amnésia"));
